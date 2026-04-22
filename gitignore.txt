@@ -14,3 +14,6 @@ env/
 temp_code.*
 temp_exec.exe
 temp_exec
+.env
+.env.local
+.env.*.local
