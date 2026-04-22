@@ -1,5 +1,7 @@
 # Ignore Environment Variables (API KEYS!)
 .env
+.env.local
+.env.*.local
 
 # Ignore Database
 reviews_history.db
@@ -14,6 +16,3 @@ env/
 temp_code.*
 temp_exec.exe
 temp_exec
-.env
-.env.local
-.env.*.local
