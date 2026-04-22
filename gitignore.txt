@@ -1,0 +1,16 @@
+# Ignore Environment Variables (API KEYS!)
+.env
+
+# Ignore Database
+reviews_history.db
+
+# Ignore Python Cache and Virtual Environments
+__pycache__/
+venv/
+env/
+.venv/
+
+# Ignore Temporary Files created by the app
+temp_code.*
+temp_exec.exe
+temp_exec
